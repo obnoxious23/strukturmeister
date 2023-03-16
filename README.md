@@ -1,4 +1,4 @@
-# Sky (default) WonderCMS theme 2022
+# Theme for use at strukturmeister.com
 Fully responsive.
 
 ## Preview
