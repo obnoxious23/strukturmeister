@@ -1,7 +1,7 @@
 {
     "version": 1,
     "themes": {
-        "sky": {
+        "strukturmeister": {
             "name": "Strukturmeister",
             "repo": "https://github.com/obnoxious23/strukturmeister/tree/master",
             "zip": "https://github.com/obnoxious23/strukturmeister/archive/refs/heads/master.zip",
