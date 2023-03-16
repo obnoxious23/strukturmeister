@@ -2,11 +2,11 @@
     "version": 1,
     "themes": {
         "sky": {
-            "name": "Sky",
-            "repo": "https://github.com/robiso/sky/tree/master",
-            "zip": "https://github.com/robiso/sky/archive/master.zip",
-            "summary": "Default WonderCMS theme (2022). Theme works without Bootstrap and jQuery.",
-            "version": "3.2.3",
+            "name": "Strukturmeister",
+            "repo": "https://github.com/obnoxious23/strukturmeister/tree/master",
+            "zip": "https://github.com/obnoxious23/strukturmeister/archive/refs/heads/master.zip",
+            "summary": "The for strukturmeister.com. Based on the default WonderCMS theme (2022).",
+            "version": "1.0",
             "image": "https://raw.githubusercontent.com/robiso/sky/master/preview.jpg"
         }
     }
